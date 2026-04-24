@@ -4,6 +4,8 @@
 
 - https://www.kevnu.com/en/posts/the-ultimate-comparison-of-claude-code-alternatives-a-complete-analysis-of-the-10-strongest-cli-ai-programming-tools
 
+
+_____________
 ## 1. Gemini CLI 
 
 Official Repository: https://github.com/google-gemini/gemini-cli
