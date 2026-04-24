@@ -86,6 +86,8 @@ Free Quota
 - Completely Free: No credit card required  
 
 
+___________________
+
 ## 2. Aider
 
 ## 3. OpenCode
