@@ -25,7 +25,7 @@ npm install -g @google/gemini-cli
 gemini --version
 ```
 
-Authentication Configuration
+Authentication Configuration  
 Method 1: Personal Google Account (Free, Recommended)
 ```
 # Automatic authentication guide on first run
@@ -48,7 +48,7 @@ gemini -p "Analyze code architecture" --output-format json
 
 ```
 
-Advanced Configuration
+Advanced Configuration  
 Project Context (Create GEMINI.md or use /init to automatically summarize and generate)
 ```
 # Project Guidelines
