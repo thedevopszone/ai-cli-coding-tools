@@ -83,7 +83,7 @@ MCP Server Configuration (~/.gemini/settings.json)
 
 Free Quota
 - Personal Account: 60 RPM / 1,000 RPD
-- Completely Free: No credit card required
+- Completely Free: No credit card required  
 
 
 ## 2. Aider
